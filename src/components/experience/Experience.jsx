@@ -30,7 +30,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -78,13 +78,13 @@ const Experience = () => {
               </div>
             </article>
 
-            <article className="experience_details">
+            {/* <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Beginner</small>
               </div>
-            </article>
+            </article> */}
 
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
@@ -94,13 +94,13 @@ const Experience = () => {
               </div>
             </article>
 
-            <article className="experience_details">
+            {/* <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Python</h4>
                 <small className="text-light">Beginner</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
       </div>

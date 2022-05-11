@@ -56,7 +56,7 @@ const data = [
     id: 8,
     image: IMG8,
     title: "Personal Portfolio",
-    github: "https://github.com/sarath-babayaga/react-portfolio",
+    github: "https://github.com/sarath-babayaga/portfolio",
   },
   // {
   //   id: 9,
