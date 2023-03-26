@@ -1,10 +1,10 @@
 import React from 'react'
 import './Projects.css'
-import IMG1 from "../../assets/homepage.png";
-import IMG2 from "../../assets/form.png";
+import IMG1 from "../../assets/hotel.png";
+import IMG2 from "../../assets/fitness.png";
 import IMG3 from "../../assets/fb-home.png";
 import IMG4 from "../../assets/weather.png";
-import IMG5 from "../../assets/gmail-clone.png";
+import IMG5 from "../../assets/youtube-clone.png";
 import IMG6 from "../../assets/pricing-table.png";
 import IMG7 from "../../assets/shopping-cart.png";
 import IMG8 from "../../assets/portfolio.png";
@@ -19,37 +19,35 @@ const data = [
     github: "https://github.com/sarath-babayaga/weather",
     demo: "https://main--dashing-torrone-3780f7.netlify.app/"
   },
-  // {
-  //   id: 2,
-  //   image: IMG5,
-  //   title: "Gmail Clone Frontend",
-  //   github: "https://github.com/sarath-babayaga/gmail-frontend-clone",
-  //   demo: ""
-  // },
-  // {
-  //   id: 3,
-  //   image: IMG6,
-  //   title: "Pricing Table using React",
-  //   github: "https://github.com/sarath-babayaga/react-pricing-table",
-  //   demo: ""
-  
-  // },
-  // {
-  //   id: 4,
-  //   image: IMG7,
-  //   title: "Shopping Page using React",
-  //   github: "https://github.com/sarath-babayaga/react-shopping-cart",
-  //   demo: ""
-  
-  // },
   {
-    id: 5,
-    image: IMG8,
-    title: "Personal Portfolio",
-    github: "https://github.com/sarath-babayaga/portfolio",
-    demo: ""
-  
+    id: 2,
+    image: IMG5,
+    title: "Youtube Clone",
+    github: "https://github.com/sarath-babayaga/youtube-clone",
+    demo: "https://main--starlit-smakager-4e5932.netlify.app/"
   },
+  {
+    id: 3,
+    image: IMG1,
+    title: "Gericht Restaurant",
+    github: "https://github.com/sarath-babayaga/restaurant",
+    demo: ""
+  },
+  {
+    id: 4,
+    image: IMG2,
+    title: "Fitness App",
+    github: "https://github.com/sarath-babayaga/fitness",
+    demo: ""
+  },
+  // {
+  //   id: 5,
+  //   image: IMG8,
+  //   title: "Personal Portfolio",
+  //   github: "https://github.com/sarath-babayaga/portfolio",
+  //   demo: ""
+  
+  // },
   {
     id: 6,
     image: IMG9,
@@ -61,7 +59,7 @@ const data = [
   {
     id: 7,
     image: IMG10,
-    title: "Hoo Bank",
+    title: "Hoo Bank UI",
     github: "https://github.com/sarath-babayaga/hoobank",
     demo: "https://main--strong-toffee-165a79.netlify.app/"
   
