@@ -31,7 +31,7 @@ const data = [
     image: IMG1,
     title: "Gericht Restaurant",
     github: "https://github.com/sarath-babayaga/restaurant",
-    demo: ""
+    demo: "https://main--gleaming-pegasus-d6ac21.netlify.app/"
   },
   {
     id: 4,
